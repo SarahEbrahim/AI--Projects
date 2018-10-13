@@ -1,5 +1,6 @@
 # AI--Projects
 #Natural Language Processing project--using R language--Artificial Intelligence course.
+
 1- Tidying the DATA To get TIDY TEXT
 
    install.packages("tidyverse")
